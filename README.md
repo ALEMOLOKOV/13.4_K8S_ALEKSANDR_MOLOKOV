@@ -34,9 +34,9 @@
 ![config после изменений](https://github.com/ALEMOLOKOV/13.4_K8S_ALEKSANDR_MOLOKOV/assets/109212419/b75545f4-54ee-4166-8828-b0209af8335e)
 
 #### Создаем объекты
-![Deployment]()
-![Role]()
-![RoleBinding]()
+![Deployment](https://github.com/ALEMOLOKOV/13.4_K8S_ALEKSANDR_MOLOKOV/blob/13c2f4c64ba89d7cb7896c094ba4e0b20806d9f7/deployment.yaml)
+![Role](https://github.com/ALEMOLOKOV/13.4_K8S_ALEKSANDR_MOLOKOV/blob/13c2f4c64ba89d7cb7896c094ba4e0b20806d9f7/role.yaml)
+![RoleBinding](https://github.com/ALEMOLOKOV/13.4_K8S_ALEKSANDR_MOLOKOV/blob/13c2f4c64ba89d7cb7896c094ba4e0b20806d9f7/rolebinding.yaml)
 
 #### Статусы объектов
 
